@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855425672526",
+    "project_id": "nazeeragrclick",
+    "storage_bucket": "nazeeragrclick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855425672526:android:cbf136f5c52784df866a1f",
+        "android_client_info": {
+          "package_name": "com.example.agriculture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOvhB50NidxP85YSvq3aEoGGh5drjS2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
